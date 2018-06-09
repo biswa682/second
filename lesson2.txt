@@ -1,4 +1,8 @@
 update using local machine
+merged common ancestors
+
+now i am adding remote and local
+I update through github
 Now U updated after that i push it in git
 This is lesson 2.
 We are in mount blue
